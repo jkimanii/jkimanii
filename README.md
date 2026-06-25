@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning: Bachelor of Science in Informatics and Computer Science 
 - 💞️ I’m looking to collaborate on: any opportunity to further my knowledge in deep learning while gaining real-world experience, and even earn some money
 - 📫 How to reach me: Instagram @jj2pan or Email me at kimanikuriajames@gmail.com 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I don't know how to swim
+- ⚡ Fun fact: I don't know how to swim !!
 
 <!---
 jj2pan/jj2pan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
